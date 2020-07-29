@@ -16,6 +16,6 @@
 
 LOCAL_PATH := $(call my-dir)
 
-ifeq ($(TARGET_DEVICE),montana)
+ifeq ($(TARGET_DEVICE),montana_49)
 
 endif
